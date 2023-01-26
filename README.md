@@ -2,6 +2,18 @@
 
 ## Week 1
 
+### HTML
+
+Hypertext Markup Language also known as HTML is a standard markup language for creating web pages and web appplication
+
+tags are used to tell the browser how to format content
+tags include < p >, < head >, < body >, < ul >, < ol >
+
+< p > is used to label a section as a paragraph
+< head > is used to store mainly the title and scripts required for the browser like the CSS link
+< body > is used to store main bulk of code
+< img > is used to display an image
+
 #### Lists
 
 There are 2 types of lists ul, ol
